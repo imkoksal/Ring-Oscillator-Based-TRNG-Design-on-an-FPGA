@@ -1,0 +1,1 @@
+Constraints were made for the PYNQ Z1 board, pblocks were created to reduce the possibility of injection locking. Please add and adjust your clocking wizard and feed it according to your board's oscillator constraint.
