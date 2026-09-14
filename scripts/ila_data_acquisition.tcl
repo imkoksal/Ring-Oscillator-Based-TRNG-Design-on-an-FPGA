@@ -3,7 +3,7 @@
 # AYARLAR
 set num_captures 70001
 set start_index 0
-set save_dir "/home/mustafa/Documents/bitirme/digdes/deneme/den5/csv_design" 
+set save_dir "~/csv_design" # CHANGE YOUR SAVING DIRECTORY HERE AND UPDATE IT ON THE C AND PYTHON FILES
 set ila_name "hw_ila_1"
 set valid_keyword "valid"
 set word_keyword "shift_reg_word"
