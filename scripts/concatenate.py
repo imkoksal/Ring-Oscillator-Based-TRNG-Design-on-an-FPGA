@@ -2,8 +2,8 @@ import csv
 import os
 
 # KLASÖR YOLLARI
-klasor_yolu = r'/home/mustafa/Documents/bitirme/digdes/deneme/den5/csv_design'
-cikis_klasoru = r'/home/mustafa/Documents/bitirme/digdes/deneme/den5/birlesmis_cikis'
+klasor_yolu = r'~/csv_design'
+cikis_klasoru = r'~/birlesmis_cikis'
 
 # Probes and their nominal bit widths
 SUFFIX_WIDTHS = {
