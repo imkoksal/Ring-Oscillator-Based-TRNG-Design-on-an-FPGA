@@ -5,7 +5,7 @@
 #include <math.h>
 #include <errno.h>
 
-#define KLASOR_YOLU      "/home/mustafa/Documents/bitirme/digdes/deneme/den5/csv_design"
+#define KLASOR_YOLU      "~/csv_design" /* CHANGE YOUR SAVING DIRECTORY HERE AND UPDATE IT ON THE C AND PYTHON FILES */
 #define ALPHA            0.01
 #define PI_CONST         3.14159265358979323846
 
