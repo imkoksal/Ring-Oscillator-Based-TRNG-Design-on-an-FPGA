@@ -10,6 +10,6 @@ A high-performance C99 implementation of the complete **NIST SP 800-22 Rev 1a** 
 
 * # Compiling and Running the Program
 * to compile the program, run this in the terminal:
-* 'gcc -O3 -std=c99 bitstream_testing.c -lm -o bitstream_testing'
+* `gcc -O3 -std=c99 bitstream_testing.c -lm -o bitstream_testing`
 * and to run the program use:
-* './bitstream_testing'
+* `./bitstream_testing`
