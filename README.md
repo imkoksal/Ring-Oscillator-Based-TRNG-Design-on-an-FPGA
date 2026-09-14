@@ -6,7 +6,7 @@ An open-source hardware implementation of a True Random Number Generator (TRNG) 
 * **Entropy Source:** Multi-instance Ring Oscillator (RO) arrays designed with prime-numbered inverter stages and physical placement constraints (`pblocks` / area constraints) to minimize correlation and injection locking.
 * **Post-Processing Pipeline:** Hardware-implemented Von Neumann debiaser and decimation/sampling logic to correct bit-bias and reduce sequential dependency.
 * **Data Capture & Interface:** Integrated Logic Analyzer (ILA) / UART streaming interfaces to export raw and conditioned bitstreams for statistical validation.
-* **Multi-Platform Support:** Synthesizable HDL designs for platforms including Xilinx Zynq (PYNQ-Z1) and Gowin FPGAs (Tang Nano 20k).
+* **Multi-Platform Support:** Synthesizable HDL design for the Xilinx Zynq (PYNQ-Z1) 
 
 ## Repository Structure
 ```text
